@@ -1,0 +1,149 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/ellipse_9.png
+  - assets/images/tera_image.png
+  - assets/vectors/shift_3_x2.svg
+  - assets/vectors/vector_45_x2.svg
+  - assets/vectors/rectangle_x2.svg
+  - assets/vectors/dictation_2_x2.svg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/rectangle_5_x2.svg
+  - assets/vectors/vector_43_x2.svg
+  - assets/vectors/vector_27_x2.svg
+  - assets/vectors/rectangle_3_x2.svg
+  - assets/vectors/emoji_6_x2.svg
+  - assets/vectors/a_4_x2.svg
+  - assets/images/ellipse_9.png
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/images/tera_image.png
+  - assets/vectors/vector_38_x2.svg
+  - assets/vectors/vector_21_x2.svg
+  - assets/vectors/vector_37_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/rectangle_8_x2.svg
+  - assets/vectors/rectangle_17_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/rectangle_10_x2.svg
+  - assets/vectors/shift_2_x2.svg
+  - assets/vectors/container_4_x2.svg
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_34_x2.svg
+  - assets/vectors/dictation_5_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/emoji_3_x2.svg
+  - assets/vectors/a_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/touch_target.png
+  - assets/images/touch_target_1.gif
+  - assets/images/ellipse_9.png
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/a_6_x2.svg
+  - assets/vectors/rectangle_6_x2.svg
+  - assets/vectors/shift_x2.svg
+  - assets/vectors/dictation_x2.svg
+  - assets/vectors/rectangle_16_x2.svg
+  - assets/vectors/container_6_x2.svg
+  - assets/vectors/vector_35_x2.svg
+  - assets/vectors/rectangle_4_x2.svg
+  - assets/vectors/emoji_4_x2.svg
+  - assets/images/ellipse_9.png
+  - assets/vectors/vector_19_x2.svg
+  - assets/vectors/vector_23_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/vector_14_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/vector_28_x2.svg
+  - assets/vectors/vector_33_x2.svg
+  - assets/vectors/vector_18_x2.svg
+  - assets/images/ellipse_9.png
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/images/tera_image.png
+  - assets/vectors/shift_1_x2.svg
+  - assets/vectors/dictation_3_x2.svg
+  - assets/vectors/rectangle_1_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/container_2_x2.svg
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/rectangle_14_x2.svg
+  - assets/vectors/rectangle_12_x2.svg
+  - assets/vectors/vector_36_x2.svg
+  - assets/vectors/a_1_x2.svg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/emoji_2_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/rectangle_15_x2.svg
+  - assets/vectors/vector_25_x2.svg
+  - assets/vectors/a_5_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/shift_5_x2.svg
+  - assets/vectors/rectangle_2_x2.svg
+  - assets/vectors/vector_26_x2.svg
+  - assets/vectors/emoji_x2.svg
+  - assets/vectors/rectangle_11_x2.svg
+  - assets/vectors/dictation_4_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/dictation_1_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_39_x2.svg
+  - assets/vectors/rectangle_9_x2.svg
+  - assets/vectors/emoji_5_x2.svg
+  - assets/vectors/a_2_x2.svg
+  - assets/vectors/shift_4_x2.svg
+  - assets/vectors/vector_29_x2.svg
+  - assets/vectors/rectangle_19_x2.svg
+  - assets/vectors/container_3_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/rectangle_20_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/a_3_x2.svg
+  - assets/vectors/container_5_x2.svg
+  - assets/vectors/emoji_1_x2.svg
+  - assets/vectors/rectangle_13_x2.svg
+  - assets/vectors/rectangle_7_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/shift_6_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/vector_31_x2.svg
+  - assets/vectors/dictation_6_x2.svg
+  - assets/vectors/rectangle_18_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/images/tera_image.png
+  - assets/images/ellipse_9.png
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/vector_9_x2.svg
+
